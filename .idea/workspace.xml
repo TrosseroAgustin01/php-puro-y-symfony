@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23,_11_47_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23,_11_47_AM_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23__11_47_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23__11_47_AM__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vinyl-Project/templates/vinyl/home.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vinyl-Project/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/Vinyl-Project/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frikyland" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/02-blog/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Vinyl-Project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Mp6hliJfVNOJKTRQkVdQxJwIbD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/opt/lampp/htdocs/php-puro-y-symfony&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="" />
+      <created>1678452298857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678452298857</updated>
+      <workItem from="1678452302739" duration="445000" />
+      <workItem from="1678452758470" duration="1698000" />
+      <workItem from="1678456174639" duration="2655000" />
+      <workItem from="1678460539375" duration="3483000" />
+      <workItem from="1678698095744" duration="769000" />
+      <workItem from="1678702103267" duration="8579000" />
+      <workItem from="1678711846763" duration="167000" />
+      <workItem from="1678712024795" duration="5157000" />
+      <workItem from="1678721868492" duration="3759000" />
+      <workItem from="1678880472059" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

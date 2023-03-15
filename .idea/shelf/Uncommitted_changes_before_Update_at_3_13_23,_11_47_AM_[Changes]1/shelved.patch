@@ -1,0 +1,39 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"VcsDirectoryMappings\">\n    <mapping directory=\"\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"\" />\n    <mapping directory=\"$PROJECT_DIR$/MyVinyl\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$/Vinyl-Project\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$/frikyland\" vcs=\"Git\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	
++++ b/.idea/vcs.xml	
+@@ -2,8 +2,7 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$" vcs="" />
+-    <mapping directory="$PROJECT_DIR$/MyVinyl" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$/Vinyl-Project" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$/frikyland" vcs="Git" />
+   </component>
+Index: 02-blog/composer.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n    \"name\": \"vidamrr/blog\",\n    \"autoload\": {\n        \"psr-4\": {\n            \"Vidamrr\\\\Blog\\\\\": \"src/\"\n        }\n    },\n    \"authors\": [\n        {\n            \"name\": \"marcos rivas\"\n        }\n    ],\n    \"require\": {\n        \"league/commonmark\": \"^2.3\"\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/02-blog/composer.json b/02-blog/composer.json
+--- a/02-blog/composer.json	
++++ b/02-blog/composer.json	
+@@ -11,6 +11,7 @@
+         }
+     ],
+     "require": {
+-        "league/commonmark": "^2.3"
++        "league/commonmark": "^2.3",
++      "ext-http": "*"
+     }
+ }
