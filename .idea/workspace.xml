@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/src/Controller/VinylController.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/Controller/VinylController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/start/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/start/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/start/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/start/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +81,7 @@
       <workItem from="1678721868492" duration="3759000" />
       <workItem from="1678880472059" duration="85000" />
       <workItem from="1678880558227" duration="13614000" />
-      <workItem from="1678969485174" duration="1720000" />
+      <workItem from="1678969485174" duration="3041000" />
     </task>
     <servers />
   </component>
