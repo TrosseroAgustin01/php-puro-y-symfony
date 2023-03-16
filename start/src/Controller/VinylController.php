@@ -5,12 +5,13 @@ namespace App\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
+use Twig\Environment;
 use function Symfony\Component\String\u;
 
 class VinylController extends AbstractController
 {
     #[Route('/', name: 'app_home') ]
-    public function home(): Response{
+    public function home(/*Environment $twig */): Response{
         $tracks = [
             ['song' => 'Gangsta\'s Paradise', 'artist' => 'Coolio'],
             ['song' => 'Waterfalls', 'artist' => 'TLC'],
@@ -20,12 +21,20 @@ class VinylController extends AbstractController
             ['song' => 'Fantasy', 'artist' => 'Mariah Carey'],
         ];
 
+        return $this->render('vinyl/home.html.twig',[
+           'title' => 'PB & Jams',
+           'tracks' => $tracks
+        ]);
         #dd($tracks);
 
-        return $this->render('vinyl/home.html.twig', array(
+        /*$html =  $twig->render('vinyl/home.html.twig', array(
             'title' => 'PB & Jams',
             'tracks' => $tracks,
         ));
+
+        #dd($html);
+
+        return new Response($html); otras alternativas*/
         //
     }
 
