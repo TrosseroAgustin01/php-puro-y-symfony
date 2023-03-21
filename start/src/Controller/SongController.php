@@ -24,6 +24,5 @@ class SongController extends AbstractController
        ]);
 
        return new JsonResponse($song); # es lo mismo que retornar $this->json($song)
-
     }
 }

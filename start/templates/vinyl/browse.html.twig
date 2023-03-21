@@ -8,45 +8,40 @@
         <ul class="genre-list ps-0 mt-2 mb-3">
             <li class="d-inline">
                 <a class="btn btn-primary btn-sm" href="{{ path('app_browse', {
-                    slug: 'Pop'
+                    slug: 'pop'
                 }) }}">Pop</a>
             </li>
             <li class="d-inline">
-                <a class="btn btn-primary btn-sm" href="{{ path('app_browse' ,{
-                    slug: 'Rock'
+                <a class="btn btn-primary btn-sm" href="{{ path('app_browse', {
+                    slug: 'rock'
                 }) }}">Rock</a>
             </li>
             <li class="d-inline">
-                <a class="btn btn-primary btn-sm" href="{{ path('app_browse' ,{
-                    slug: 'Heavy-Metal'
-                }) }}">Heavy Metal</a>
+                <a class="btn btn-primary btn-sm" href="{{ path('app_browse', {
+                    slug: 'all-accordion'
+                }) }}">All Accordion</a>
             </li>
         </ul>
 
         <div>
             <h2 class="mt-5">Mixes</h2>
+            <script>
+                fetch('https://raw.githubusercontent.com/SymfonyCasts/vinyl-mixes/main/mixes.json').then(data => data.json()).then(data => console.log(data));
+            </script>
             <div class="row">
-                <div class="col col-md-4">
-                    <div class="mixed-vinyl-container p-3 text-center">
-                        <img src="https://via.placeholder.com/300" data-src="https://via.placeholder.com/300" alt="Square placeholder img">
-                        <p class="mt-2"><strong>PB & Jams</strong></p>
-                        <span>14 Tracks</span> | <span>Rock</span>
+                {% for mix in mixes %}
+                    <div class="col col-md-4">
+                        <div class="mixed-vinyl-container p-3 text-center">
+                            <img class="img-fluid" src="https://c7.alamy.com/compes/2aw2rp3/vector-conjunto-de-musica-retro-vinilo-grabar-iconos-planos-grunge-simbolos-de-discos-plasticos-aislados-sobre-fondo-blanco-2aw2rp3.jpg" data-src="https://c7.alamy.com/compes/2aw2rp3/vector-conjunto-de-musica-retro-vinilo-grabar-iconos-planos-grunge-simbolos-de-discos-plasticos-aislados-sobre-fondo-blanco-2aw2rp3.jpg" alt="Square placeholder img">
+                            <p class="mt-2"><strong>{{ mix.title }}</strong></p>
+                            <span>{{ mix.trackCount }} Tracks</span>
+                            |
+                            <span>{{ mix.genre }}</span>
+                            |
+                            <span>{{ mix.createdAt|ago }}</span>
+                        </div>
                     </div>
-                </div>
-                <div class="col col-md-4">
-                    <div class="mixed-vinyl-container p-3 text-center">
-                        <img src="https://via.placeholder.com/300" data-src="https://via.placeholder.com/300" alt="Square placeholder img">
-                        <p class="mt-2"><strong>Put a Hex on your Ex</strong></p>
-                        <span>8 Tracks</span> | <span>Heavy Metal</span>
-                    </div>
-                </div>
-                <div class="col col-md-4">
-                    <div class="mixed-vinyl-container p-3 text-center">
-                        <img src="https://via.placeholder.com/300" data-src="https://via.placeholder.com/300" alt="Square placeholder img">
-                        <p class="mt-2"><strong>Spice Grills - Summer Tunes</strong></p>
-                        <span>10 Tracks</span> | <span>Pop</span>
-                    </div>
-                </div>
+                {% endfor %}
             </div>
         </div>
     </div>
