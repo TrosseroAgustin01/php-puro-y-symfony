@@ -34,10 +34,12 @@ class VinylController extends AbstractController
     #[Route('/browse/{slug}', name: 'app_browse')]
     public function browse(HttpClientInterface $httpClient,CacheInterface $cache, string $slug = null  /*DateTimeFormatter $timeFormatter, */): Response
     {
+        dump($cache);
+
         $genre = $slug ? u(str_replace('-', ' ', $slug))->title(true) : null;
 
         $mixes = $cache->get('mixes_data', function (CacheItemInterface $cacheItem) use ($httpClient){ # si la funcion no recibe argumento esta informacion almacenada no se perdera nunca caso contrario determinamos el tiempo que durara almacenada
-            $response = $httpClient->request('GET', 'http://localhost/php-puro-y-symfony/start/mixes.json');#https://raw.githubusercontent.com/SymfonyCasts/vinyl-mixes/main/mixes.json'
+            $response = $httpClient->request('GET', 'https://raw.githubusercontent.com/SymfonyCasts/vinyl-mixes/main/mixes.json');#'http://localhost/php-puro-y-symfony/start/mixes.json'
             $cacheItem->expiresAfter(5);
             return $response->toArray();#pasamos de json a array
         });
