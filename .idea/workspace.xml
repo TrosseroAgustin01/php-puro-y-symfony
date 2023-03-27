@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23,_11_47_AM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_13_23__11_47_AM__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finish/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/finish/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Controller/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/frikyland/src/Repository/PostRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/start/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/start/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/start/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/src/Controller/SongController.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/Controller/SongController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start/src/Controller/VinylController.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/Controller/VinylController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/start/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/templates/vinyl/browse.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/start/templates/vinyl/browse.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/start/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,11 @@
       <workItem from="1678969485174" duration="15266000" />
       <workItem from="1679054426163" duration="64000" />
       <workItem from="1679054504594" duration="5884000" />
-      <workItem from="1679303468290" duration="16277000" />
+      <workItem from="1679303468290" duration="17880000" />
+      <workItem from="1679403490274" duration="1063000" />
+      <workItem from="1679408027349" duration="2467000" />
+      <workItem from="1679578320650" duration="599000" />
+      <workItem from="1679907584134" duration="639000" />
     </task>
     <servers />
   </component>
