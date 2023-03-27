@@ -7,6 +7,7 @@
     <list default="true" id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pruebaCarpeta/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowDuplicates.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/opt/lampp/htdocs/php-puro-y-symfony/start/public",
+    "last_opened_file_path": "/opt/lampp/htdocs/frikyland-Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +60,10 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="" />
@@ -84,7 +89,7 @@
       <workItem from="1679403490274" duration="1063000" />
       <workItem from="1679408027349" duration="2467000" />
       <workItem from="1679578320650" duration="599000" />
-      <workItem from="1679907584134" duration="6888000" />
+      <workItem from="1679907584134" duration="7603000" />
     </task>
     <servers />
   </component>
