@@ -7,6 +7,20 @@
     <list default="true" id="18356711-407d-4a14-9604-1ba83e80d4bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carga/frikyland/.env_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carga/frikyland/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/carga/frikyland/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finish/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/finish/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finish/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/finish/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba" beforeDir="false" afterPath="$PROJECT_DIR$/prueba" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/.idea/prueba.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/.idea/prueba.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/projecto" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/projecto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/projecto/.env" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/projecto/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/projecto/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/projecto/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba/projecto/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/projecto/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/start/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/start/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +34,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/carga/frikyland" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
@@ -42,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowDuplicates.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/opt/lampp/htdocs/php-puro-y-symfony",
+    "last_opened_file_path": "/opt/lampp/htdocs/Cursos/Curs-Symfony-Db",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +104,7 @@
       <workItem from="1679578320650" duration="599000" />
       <workItem from="1679907584134" duration="7603000" />
       <workItem from="1679925551723" duration="700000" />
+      <workItem from="1679931437444" duration="3847000" />
     </task>
     <servers />
   </component>
